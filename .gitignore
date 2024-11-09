@@ -1,0 +1,9 @@
+servers/
+Library/
+sql_scripts/
+RestAPI/build/
+.metadata/
+Helloworld/.settings/ RestAPI/.settings/ Servers/.settings/ ServletTutorial1/.settings/ javascript_tutorial/.settings/ quickstart/.settings/ restapitest/.settings/ servletmaven/.settings/ springannotation/.settings/
+*.project
+*.classpath
+quickstart/target/ restapitest/target/ servletmaven/target/ springannotation/target/
