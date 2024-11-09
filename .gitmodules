@@ -1,0 +1,3 @@
+[submodule "restapitest"]
+	path = restapitest
+	url = ./restapitest
